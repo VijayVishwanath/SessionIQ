@@ -1,0 +1,8 @@
+{
+  "name": "SessionIQ - Gaming Session Intelligence",
+  "description": "Real-time decision intelligence and session-to-action conversion layer for gaming platforms with EU responsible gambling compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
